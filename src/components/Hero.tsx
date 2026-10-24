@@ -1,6 +1,6 @@
 import React from 'react';
 import { ShieldCheck, ArrowDown, Github, Terminal, Cpu, Zap, Activity } from 'lucide-react';
-import heroPortraitPath from '../assets/images/hero_arch_portrait_1790605496107.jpg';
+import heroPortraitPath from '../assets/images/user_profile_portrait_1790762831255.jpg';
 
 interface HeroProps {
   lang: 'pt' | 'en';
